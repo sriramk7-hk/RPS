@@ -58,3 +58,20 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+__tests__
+
+_bundle
+
+.vscode
+
+_ruby-version
+.buckconfig
+.esintrc.js
+.flowconfig
+
+.watchmanconfig
+Gemfile
+Gemfile.lock
+
+
